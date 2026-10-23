@@ -1,0 +1,4 @@
+python-dotenv==1.2.4
+telebot==0.0.5
+requests==2.34.2
+icalendar==7.3.0
